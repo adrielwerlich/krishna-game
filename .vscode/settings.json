@@ -1,0 +1,24 @@
+{
+    "dotnet.defaultSolution": "UdemyTutorial2.sln",
+    "dotnet.preferCSharpExtension": true,
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#1f53ee",
+        "activityBar.background": "#1f53ee",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#f46b8d",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#1f53ee",
+        "statusBar.background": "#0f3ecb",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#1f53ee",
+        "statusBarItem.remoteBackground": "#0f3ecb",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#0f3ecb",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#0f3ecb99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#0f3ecb"
+}
